@@ -1,0 +1,40 @@
+body
+
+
+
+
+
+p{
+color: red;
+}
+
+.pembekedi{
+    color: aqua;
+}
+.buyukluk{
+    font-size: 50px;
+}
+
+.blue
+
+h1{
+    color: azure;
+}
+
+.arka{
+    background-color: peru;
+}
+
+.arkaplan{
+    background-color: rebeccapurple;
+}
+.okul{
+    background-color: black;
+}
+
+.poz{
+    position: relative;
+top: 20px;
+left: 30px;
+
+}
